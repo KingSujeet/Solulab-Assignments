@@ -2,9 +2,9 @@
 
 Run Project in your System:
 
-Step 1: clone this repository in your system
-Step 2: open project in VsCode 
-Step 3: run command "npm install" in the terminal
+Step 1: clone this repository in your system <br>
+Step 2: open project in VsCode <br>
+Step 3: run command "npm install" in the terminal<br>
 Step 4: run command "npm start" (project is start running)
 
 Follow these steps to run project in your system
